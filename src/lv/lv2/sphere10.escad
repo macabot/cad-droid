@@ -1,0 +1,4 @@
+union() {
+    sphere(10);
+    translate([-5, -5]) sphere(10);
+}

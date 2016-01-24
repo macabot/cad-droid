@@ -1,0 +1,30 @@
+{
+  "name": "cad-droid",
+  "version": "0.0.1",
+  "description": "My CAD droid project",
+  "author": "Michael Cabot",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/macabot/cad-droid"
+  },
+  "keywords": [
+    "cad-droid",
+    "cad",
+    "droid",
+    "implicitcad"
+  ],
+  "devDependencies": {},
+  "dependencies": {
+    "fs": "0.0.2",
+    "gulp": "^3.9.0",
+    "gulp-batch": "^1.0.5",
+    "gulp-exec": "^2.1.2",
+    "gulp-plumber": "^1.0.1",
+    "gulp-sass": "^2.1.1",
+    "gulp-util": "^3.0.7",
+    "gulp-watch": "^4.3.5",
+    "mkdirp": "^0.5.1",
+    "path": "^0.12.7",
+    "through2": "^2.0.0"
+  }
+}
